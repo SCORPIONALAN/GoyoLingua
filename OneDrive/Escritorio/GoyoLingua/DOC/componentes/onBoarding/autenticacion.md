@@ -223,7 +223,7 @@ Future<bool> saveUserId(String value) async {
 }
 // ... otros métodos setter
 ```
-Son metodos que nos van a permitir mediante una promesa salvar valores como los que por ejemplo al iniciar sesion o crear una cuenta vamos a guardar
+Son metodos que nos van a permitir mediante una promesa salvar valores como los que por ejemplo al iniciar sesion o crear una cuenta vamos a guardar.
 
 ### Métodos Getter (Estáticos)
 ```dart
